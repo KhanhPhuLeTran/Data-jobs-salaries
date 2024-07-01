@@ -1,4 +1,10 @@
 # Data-jobs-salaries
+## Nhóm sinh viên thực hiện:
+1. Lê Trần Khánh Phú 31211024087 
+2. Phạm Minh Phước 31211027663 
+3. Đỗ Quang Thiên Phú 31211024191 
+4. Trương Thanh Phong 31211027662 
+5. Nguyễn Tân Niên 31211027661 
 ## 1. Xác định đề tài  
 **Data jobs** là một trong những nhóm ngành về công nghệ thông tin đang có sức hút 
 hiện nay. Tập dữ liệu **Data jobs salaries** dạng bảng này bao gồm danh sách tất cả các mức 
