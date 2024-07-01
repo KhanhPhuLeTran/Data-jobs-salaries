@@ -4,10 +4,10 @@
 2. Phạm Minh Phước - 31211027663 
 3. Đỗ Quang Thiên Phú - 31211024191 
 4. Trương Thanh Phong - 31211027662 
-5. Nguyễn Tân Niên - 31211027661 
+5. Nguyễn Tân Niên - 31211027661
 ## 1. Xác định đề tài  
 **Data jobs** là một trong những nhóm ngành về công nghệ thông tin đang có sức hút 
-hiện nay. Tập dữ liệu **Data jobs salaries** dạng bảng này bao gồm danh sách tất cả các mức 
+hiện nay. Tập dữ liệu **[Data jobs salaries](https://www.kaggle.com/datasets/lorenzovzquez/data-jobs-salaries?fbclid=IwZXh0bgNhZW0CMTAAAR31PEHcvcDC2QoVWG6ebPNW4nHwnSj0hpHIjjBRnRXVu0XR7YRJTZZuFns_aem_wRuUApnQ6-Mfu93gtiFzoA)** dạng bảng này bao gồm danh sách tất cả các mức 
 lương được thu thập cho tới hiện tại, cùng với các thông tin chi tiết như: kinh nghiệm, tên 
 công việc, loại hình làm việc (full-time, part-time,..), thời lượng làm việc từ xa, thời lượng, 
 vị trí công ty, v.v. Các yếu tố này sẽ được nhóm tiến hành thực hiện phân tích thông qua 
